@@ -1,0 +1,32 @@
+/* CSS for login page */
+
+.login{
+    border: 2px solid goldenrod;
+    width: 30%;
+    margin: 10% auto;
+    background-color: #70a1ff;
+    padding: 2%;
+
+
+}
+
+.text-center{
+    text-align: center;
+
+}
+
+.success{
+    color:#260bf3;
+    padding: 2%;
+    font-weight:800;
+    font-size:large;
+    
+   
+   
+}
+
+.erro{
+    color: #e40e0e;
+    font-weight: 800;
+    font-size: large;
+}

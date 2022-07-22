@@ -1,0 +1,68 @@
+.mid{
+    
+    width: 90%;
+    margin: 5% auto;
+    background-color: white;
+    padding: 3%;
+
+
+}
+.table-A{
+    width: 80%;
+    padding: 1%;
+    height: 60%;
+
+}
+th, td {
+    padding: 8px;
+    
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 60%;
+    border-radius: 5px;
+}
+  
+.card:hover {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2);
+}
+  
+.container {
+    padding: 15px 12px;    
+}
+
+.login {
+    border: 2px solid goldenrod; width: 30%; margin: 10% auto; background-color: #70a1ff; padding: 2%;  
+}  
+.container {   
+    position: absolute;   
+    right: 0;   
+    margin: 20px;  
+    max-width: 300px; padding: 16px;
+    background-color:transparent;   
+}  
+
+.bg-img {
+    background: linear-gradient(rgba(158, 147, 136, 0.5), rgba(169, 162, 154, 0.5)), url(../img/about.jpg) center center no-repeat; background-size:cover; 
+}
+
+
+
+.btn {
+    background-color:goldenrod;
+    color:black;
+    font-family:'Oswald', sans-serif;
+    font-weight:600;
+    padding: 7px 15px;
+    transition:.5s;
+    border-radius:4px; 
+    opacity: 0.9;
+  }
+  
+  .btn:hover {
+    background-color:rgb(16, 116, 178);
+    color:white;
+    opacity:1;
+  }

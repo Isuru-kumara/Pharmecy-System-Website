@@ -124,7 +124,7 @@
                     </div>    
                 </div><hr>
                     
-                    <form action="<?php SITEURL;?>Home_page.php">
+                    <form action="<?php SITEURL;?>index.php">
                         <input class="btn btn-primary" type="submit" value="confirm order" style="width:70%;" >
                     </form><br>
               

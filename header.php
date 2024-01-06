@@ -63,7 +63,7 @@ ob_start()?>
                         <div class="navbar-nav mr-auto py-3">
 
 
-                            <a href="<?php echo SITEURL;?>Home_page.php" class="nav-item nav-link">Home</a>
+                            <a href="<?php echo SITEURL;?>index.php" class="nav-item nav-link">Home</a>
 
 
                             <a href="<?php echo SITEURL; ?>Categories.php" class="nav-item nav-link">Categories</a>

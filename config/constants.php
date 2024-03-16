@@ -7,11 +7,11 @@
 
 
     //create constanst for non reapeting values
-    define('SITEURL','http://localhost/pharmacy-system/');
+    define('SITEURL','http://localhost/rufmfqwk_pharmacy-system/');
     define('LOCALHOST','localhost');
-    define('DB_USERNAME','root');       
-    define('DB_PASSWORD','');       # use define we can oparate like we use veraibles;
-    define('DB_NAME','pharmacy-system');
+    define('DB_USERNAME','rufmfqwk_pharmacy-system');       
+    define('DB_PASSWORD','root');       # use define we can oparate like we use veraibles;
+    define('DB_NAME','rufmfqwk_pharmacy-system');
 
     
 
